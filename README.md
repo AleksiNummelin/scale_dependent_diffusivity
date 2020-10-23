@@ -1,8 +1,8 @@
-Scale_Dependent_Diffusivity
+Scale Dependent Diffusivity
 ==============================
 [![License:MIT](https://img.shields.io/badge/License-MIT-lightgray.svg?style=flt-square)](https://opensource.org/licenses/MIT)
 
-Code for reproducing Nummelin et al. (2020) analysis.
+Code for reproducing the analysis in the Nummelin et al (2020; Diagnosing the Scale and Space Dependent Horizontal Eddy Diffusivity at the Global Surface Ocean, JPO) results.
 
 Workflow:
 
