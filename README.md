@@ -23,7 +23,7 @@ Workflow:
 6) At this point all the major data processing is done.
    The final step is to do some postprocessing and plot the figures in Nummelin et al. 2020.
    ```
-   python bin/run_plotting.py
+   python bin/plotting/run_plotting.py
    ```
 
 Please note that this project requires a large amount of data and reproducing all the steps will take a significant amount of computing time and power. Please be in touch if you are interested in specific parts of the full project.
