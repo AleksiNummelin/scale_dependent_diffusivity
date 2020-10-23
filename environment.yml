@@ -8,9 +8,10 @@ dependencies:
   - jupyter
   - jupyterlab
   - xarray
+  - xesmf
   - numpy
   - scipy
   - dask
   - netcdf4
-  - pandas
   - matplotlib
+  - cartopy
